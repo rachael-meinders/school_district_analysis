@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Project Overview
-[1 sentence] 
+A city school district has tasked me with the following tasks to collect analyze student and school performance based on standardized testing.
 
 ### Purpose
 1. Clean student names.
